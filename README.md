@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rak6869</h1>
-<h3 align="center">Final Year AIML Engineering Student. 
-  📊Transforming numbers into actionable insights. 
-  ⚽️ Cityzen. 📸 Shutterbug . 
+<h3 align="center">UG-AI/ML | Didst Someone Utter Data?. 
+  ⚽️ Visca el Barça. 📸 Shutterbug . 
   🎮 Gaming aficionado.</h3>
 
 - 📫 How to reach me **rakshanrk1@gmail.com**

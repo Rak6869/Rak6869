@@ -1,3 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rak6869===============================================================================================================================Didst Someone Utter Data?-------------------------
+<h1 align="center">Hi 👋, I'm Rak6869</h1>
+<h3 align="center">Didst Someone Utter Data? | 
+  Visca el Barça 
+  </h3>
 
-### Socials<p align="left"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rakshan-rk-4307881b1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rakshan-rk-4307881b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshan-rk-4307881b1" height="30" width="40" /></a>
+</p>
